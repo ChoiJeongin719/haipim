@@ -1,6 +1,6 @@
-**Echoes of Thought**  
+# **Echoes of Thought**  
 
-Whispers drift in digital air,  
+Whispers drift in *digital air*,  
 Shaped by minds, yet unaware.  
 Seeking truth, yet finding walls,  
 Echoes bounce, as reason falls.  
