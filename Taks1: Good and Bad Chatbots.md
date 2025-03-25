@@ -26,4 +26,10 @@ Mitsuku | Award-winning conversational chatbot known for witty banter. |
 ## Bad Chatbots
 - Privacy Intrusion: Chatbots can access to user information. Especially, conversational chatbots and users talk about private things, so it if use the data for the model, it can manipulate people. 
 - Dependancy: Conversational chatbots can replace human relationships and social activity. It should not replace human interaction but just assist human communication.
-- Harming People: Conversational chatbots may reflect our biased and harmful words, so it should not make people to do harmful things such as suicide or homicide. 
+- Harming People: Conversational chatbots may reflect our biased and harmful words, so it should not make people to do harmful things such as suicide or homicide.
+
+
+### Privacy Issue that I experienced
+[![Watch Video](https://img.youtube.com/vi/ipOWSVMhl84/0.jpg)](https://youtube.com/shorts/ipOWSVMhl84)
+This is chatGPT voice-conversation in which it made up my voice and kept generating meaningdless conversation.
+ [^1] https://youtube.com/shorts/ipOWSVMhl84?si=5g-P6C7SlpQFzu3G
