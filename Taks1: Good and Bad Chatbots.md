@@ -31,5 +31,6 @@ Mitsuku | Award-winning conversational chatbot known for witty banter. |
 
 ### Privacy Issue that I experienced
 [![Watch Video](https://img.youtube.com/vi/ipOWSVMhl84/0.jpg)](https://youtube.com/shorts/ipOWSVMhl84)
+
 This is chatGPT voice-conversation in which it made up my voice and kept generating meaningdless conversation.
-[^1]: https://youtube.com/shorts/ipOWSVMhl84?si=5g-P6C7SlpQFzu3G
+{^1} https://youtube.com/shorts/ipOWSVMhl84?si=5g-P6C7SlpQFzu3G
