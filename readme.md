@@ -1,12 +1,12 @@
 ![Chatbot Header]([assets/AI chatbot.png](https://github.com/ChoiJeongin719/haipim/blob/main/assets/AI%20chatbot.png))
 
 # Good Chatbots and Bad Chatbots
-**What are chatbots?
+**What are chatbots?**
 Chatbots are programme that is used to converse with users. 
 At first, it was rule-based but today, we can see LLM-based chatbots that break up the limit of rule-based chatbots.
 For example, rule-based chatbots were unable to reply to the unexpected questions, but LLM can do that.
 
-**What chatbots can do
+**What chatbots can do**
 LLM-powered chatbots can help companies to deal with customer survices, be a companion for people etc.
 There are many kinds of charbots - Customer Support Chatbots, Conversational/Companion Chatbots, Educational Chatbots, Productivity & Utility Chatbots and so on.
 I will focus on the **Conversational/Companion Chatbots, however, it should be applied to general chatbots.
