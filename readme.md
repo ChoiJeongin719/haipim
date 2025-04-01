@@ -23,12 +23,15 @@ I will focus on the **Conversational/Companion Chatbots, however, it should be a
 ![Replika](https://play-lh.googleusercontent.com/NoBNpRDHopi0ywtUg2VpffZ7h8wpmnozxJRN886RRgOs-O0KulTBLSXYjROvWL8fsW8=w526-h296-rw)
 Replika is an AI-powered chatbot, which provides you perpsonalized AI companionship. You can talk with them in voice. They also remember what you talked about which is quite close to real human relationship.
 
+### Character AI
 ![Character AI](https://helios-i.mashable.com/imagery/articles/02xSxDwBGS7prKyJD3ciDu7/hero-image.fill.size_1200x900.v1684761461.png)
 Character AI is also an AI powered chatbot. There are lots of chatbots simulating famous characters. If you want to talk with Einstein, you can.
 
+### ZETA
 ![ZETA](https://gogumafarm.kr/wp-content/uploads/2024/08/1-%EC%A0%9C%ED%83%80-2-X_zeta-AI.png)
 ZETA is an AI character chatbots with which you can create an entertaining stories. You can be the heoroin of the drama and you can even change the plot!
 
+### MITSUKU
 ![Mitsuku](https://media.licdn.com/dms/image/v2/C5112AQHascN1-Kwbmw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1571039798759?e=2147483647&v=beta&t=SV5GDEPkkTY5UvGkPIQaffBKaxaGy81jlvJwD2daQwM)
 Mitsuku is also an AI chatbot developed in Japan. She is designed very well in leading conversation that we even got the reward and beated META AI chatbot. 
 
