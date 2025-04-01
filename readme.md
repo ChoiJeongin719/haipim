@@ -20,7 +20,7 @@ I will focus on the **Conversational/Companion Chatbots, however, it should be a
 Mitsuku | Award-winning conversational chatbot known for witty banter. |
 
 ### Replika
-![Replika] (https://play-lh.googleusercontent.com/NoBNpRDHopi0ywtUg2VpffZ7h8wpmnozxJRN886RRgOs-O0KulTBLSXYjROvWL8fsW8=w526-h296-rw)
+![Replika](https://play-lh.googleusercontent.com/NoBNpRDHopi0ywtUg2VpffZ7h8wpmnozxJRN886RRgOs-O0KulTBLSXYjROvWL8fsW8=w526-h296-rw)
 
 ## Good Chatbots
 - Accuracy: I think the first feature for good chatbots is accuracy, which means chatbots get what I mean. 
