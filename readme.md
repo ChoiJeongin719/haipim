@@ -1,4 +1,4 @@
-![Chatbot Header](https://github.com/ChoiJeongin719/haipim/blob/main/assets/image.png?raw=true)
+![Chatbot Header](assets/AI chatbot.png)
 
 # Good Chatbots and Bad Chatbots
 **What are chatbots?
