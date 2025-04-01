@@ -1,3 +1,5 @@
+![Chatbot Header](https://github.com/ChoiJeongin719/haipim/blob/main/assets/image.png?raw=true)
+
 # Good Chatbots and Bad Chatbots
 **What are chatbots?
 Chatbots are programme that is used to converse with users. 
