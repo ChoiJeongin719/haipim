@@ -19,6 +19,9 @@ I will focus on the **Conversational/Companion Chatbots, however, it should be a
 | ZETA | AI characters talking with you so that you can make stories with them. |
 Mitsuku | Award-winning conversational chatbot known for witty banter. |
 
+### Replika
+![Replika] (https://play-lh.googleusercontent.com/NoBNpRDHopi0ywtUg2VpffZ7h8wpmnozxJRN886RRgOs-O0KulTBLSXYjROvWL8fsW8=w526-h296-rw)
+
 ## Good Chatbots
 - Accuracy: I think the first feature for good chatbots is accuracy, which means chatbots get what I mean. 
 - Showing Emotions: Thoough it understands what I mean, it should show emotions to make the conversation feel engaging and joyable.
