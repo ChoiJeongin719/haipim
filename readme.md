@@ -1,9 +1,6 @@
 ![Chatbot Header](https://github.com/ChoiJeongin719/haipim/blob/main/assets/AI%20chatbot.png)
 
-# Good Chatbots and Bad Chatbots
-
 ## Table of Contents
-[Good Chatbots and Bad Chatbots](#good-chatbots-and-bad-chatbots)  
 [What are chatbots?](#what-are-chatbots)  
 [What chatbots can do](#what-chatbots-can-do)  
 [Examples of Conversational Chatbots](#examples-of-conversational-chatbots)  
@@ -19,8 +16,7 @@
  [Chatbots that make impossible promises](#chatbots-that-make-impossible-promises)  
 [Some Issue that I experienced](#some-issue-that-i-experienced)
 
-
-
+# Good Chatbots and Bad Chatbots
 
 **What are chatbots?**
 Chatbots are programme that is used to converse with users. 
