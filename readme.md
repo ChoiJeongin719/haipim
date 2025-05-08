@@ -32,7 +32,7 @@ Character AI is also an AI powered chatbot. There are lots of chatbots simulatin
 ZETA is an AI character chatbots with which you can create an entertaining stories. You can be the heoroin of the drama and you can even change the plot!
 
 ### A.
-![A.] (https://contents.dt.co.kr/images/202307/2023070502101931029001.jpg)
+![A.](https://contents.dt.co.kr/images/202307/2023070502101931029001.jpg)
 A. is a chatbot developed by SK Telecom. Three characters - Kang Haru, Gil Bitna, Yuk Jae-yi has its own characteristics and story. For example, Kang Haru is a young man who was first a dog. 
 
 ## Good Chatbots
@@ -53,9 +53,11 @@ Chatbots can harm people. Some news has reported that chatbots had allured peopl
 As shown in this case, chatbots without guidelines and prohibition is dangerous. 
 Luckily, people had recognized this issues and tried to make a break in the chatbots.
 However, I think there is more subtle problems left in the chatbots.
+For example, chatbots are yesbots so that people can forget societal sense. 
+Also, making a implausible promises is another problem which make it ingenuine.
 
 
-# Chatbots that do not say 'No'#
+# Chatbots that do not say 'No'
 
 **User:**  
 Can you do my homework for me?
@@ -89,7 +91,7 @@ Yes! …I mean, absolutely not! I mean... whatever makes you happy. 😅
 
 
 
-# Chatbots that make impossible promise or saying#
+# Chatbots that make impossible promise or saying
 
 **User:**  
 Hey, would you go on a date with me?
