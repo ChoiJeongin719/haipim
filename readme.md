@@ -1,4 +1,4 @@
-
+![Header](https://github.com/ChoiJeongin719/haipim/blob/main/assets/AI%20chatbot.png)
 
 ## Table of Contents
 [What are chatbots?](#what-are-chatbots)  
