@@ -16,7 +16,7 @@
  [Chatbots that make impossible promises](#chatbots-that-make-impossible-promises)  
 [Some Issue that I experienced](#some-issue-that-i-experienced)
 
-# Good Chatbots and Bad Chatbots
+# Chatbots Definition
 
 **What are chatbots?**
 Chatbots are programme that is used to converse with users. 
