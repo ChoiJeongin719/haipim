@@ -1,4 +1,4 @@
-![Chatbot Header](https://github.com/ChoiJeongin719/haipim/blob/main/assets/AI%20chatbot.png)
+![image](https://github.com/user-attachments/assets/3de2df83-db88-431c-af85-5f837eafa6c8)![Chatbot Header](https://github.com/ChoiJeongin719/haipim/blob/main/assets/AI%20chatbot.png)
 
 ## Table of Contents
 [What are chatbots?](#what-are-chatbots)  
@@ -38,6 +38,8 @@ I will focus on the **Conversational/Companion Chatbots, however, it should be a
 
 ### Replika
 ![Replika](https://play-lh.googleusercontent.com/NoBNpRDHopi0ywtUg2VpffZ7h8wpmnozxJRN886RRgOs-O0KulTBLSXYjROvWL8fsW8=w526-h296-rw)
+![Replika](![Uploading image.png…])
+
 Replika is an AI-powered chatbot, which provides you perpsonalized AI companionship. You can talk with them in voice. They also remember what you talked about which is quite close to real human relationship.
 
 ### Character AI
