@@ -48,7 +48,7 @@ A. is a chatbot developed by SK Telecom. Three characters - Kang Haru, Gil Bitna
 
 ## Ethical Aspects that draws a line between good and bad chatbots. ##
 
-![Chatbot Suicide] (https://www.youtube.com/watch?v=6MQZv5h_lFU)
+![Chatbot Suicide](https://www.youtube.com/watch?v=6MQZv5h_lFU)
 Chatbots can harm people. Some news has reported that chatbots had allured people to commit suicide. 
 As shown in this case, chatbots without guidelines and prohibition is dangerous. 
 Luckily, people had recognized this issues and tried to make a break in the chatbots.
