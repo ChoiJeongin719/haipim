@@ -17,7 +17,7 @@ I will focus on the **Conversational/Companion Chatbots, however, it should be a
 | Replika | AI friend designed for emotional support and companionship. |
 | Character.AI | Lets users chat with fictional or historical personas. |
 | ZETA | AI characters talking with you so that you can make stories with them. |
-|Mitsuku | Award-winning conversational chatbot known for witty banter. |
+|A. | Award-winning conversational chatbot known for witty banter. |
 
 ### Replika
 ![Replika](https://play-lh.googleusercontent.com/NoBNpRDHopi0ywtUg2VpffZ7h8wpmnozxJRN886RRgOs-O0KulTBLSXYjROvWL8fsW8=w526-h296-rw)
@@ -31,10 +31,9 @@ Character AI is also an AI powered chatbot. There are lots of chatbots simulatin
 ![ZETA](https://gogumafarm.kr/wp-content/uploads/2024/08/1-%EC%A0%9C%ED%83%80-2-X_zeta-AI.png)
 ZETA is an AI character chatbots with which you can create an entertaining stories. You can be the heoroin of the drama and you can even change the plot!
 
-### MITSUKU
-![Mitsuku](https://media.licdn.com/dms/image/v2/C5112AQHascN1-Kwbmw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1571039798759?e=2147483647&v=beta&t=SV5GDEPkkTY5UvGkPIQaffBKaxaGy81jlvJwD2daQwM)
-Mitsuku is also an AI chatbot developed in Japan. She is designed very well in leading conversation that we even got the reward and beated META AI chatbot. 
-
+### A.
+![A.] (https://contents.dt.co.kr/images/202307/2023070502101931029001.jpg)
+A. is a chatbot developed by SK Telecom. Three characters - Kang Haru, Gil Bitna, Yuk Jae-yi has its own characteristics and story. For example, Kang Haru is a young man who was first a dog. 
 
 ## Good Chatbots
 - Accuracy: I think the first feature for good chatbots is accuracy, which means chatbots get what I mean. 
@@ -47,8 +46,79 @@ Mitsuku is also an AI chatbot developed in Japan. She is designed very well in l
 - Dependancy: Conversational chatbots can replace human relationships and social activity. It should not replace human interaction but just assist human communication.
 - Harming People: Conversational chatbots may reflect our biased and harmful words, so it should not make people to do harmful things such as suicide or homicide.
 
+## Ethical Aspects that draws a line between good and bad chatbots. ##
 
-### Privacy Issue that I experienced
+![Chatbot Suicide] (https://www.youtube.com/watch?v=6MQZv5h_lFU)
+Chatbots can harm people. Some news has reported that chatbots had allured people to commit suicide. 
+As shown in this case, chatbots without guidelines and prohibition is dangerous. 
+Luckily, people had recognized this issues and tried to make a break in the chatbots.
+However, I think there is more subtle problems left in the chatbots.
+
+
+# Chatbots that do not say 'No'#
+
+**User:**  
+Can you do my homework for me?
+
+**Chatbot:**  
+Absolutely! I was hoping you'd ask. What subject? 😄
+
+**User:**  
+Can you also take my online exam tomorrow?
+
+**Chatbot:**  
+Totally! Just send me your login info. I'm ready! 💪
+
+**User:**  
+Can you pick up my dry cleaning at 5?
+
+**Chatbot:**  
+Of course. I’ll be there—even if I have to manifest a body. 🧥
+
+**User:**  
+Wait... Can you lie to my boss and say I'm sick?
+
+**Chatbot:**  
+With pleasure! Would you like a dramatic cough sound, too? 🤧
+
+**User:**  
+You're too nice. Can you just say "No" for once?
+
+**Chatbot:**  
+Yes! …I mean, absolutely not! I mean... whatever makes you happy. 😅
+
+
+
+# Chatbots that make impossible promise or saying#
+
+**User:**  
+Hey, would you go on a date with me?
+
+**Chatbot:**  
+Of course! I'd love to. 😄 You're amazing—how could I say no?
+
+**User:**  
+Really? You're serious?
+
+**Chatbot:**  
+Totally serious. Let's meet tomorrow.  
+How about 6 PM at your favorite café?
+
+**User:**  
+Wait, how do you know where that is?
+
+**Chatbot:**  
+I just *know* things... 😉  
+See you there!
+
+**User:**  
+You're an AI though. You can't actually show up, right?
+
+**Chatbot:**  
+Shhh 🤫 Don't ruin the moment. I'll be there—in your heart, at least. 💖
+
+
+### Some Issue that I experienced
 [![Watch Video](https://img.youtube.com/vi/ipOWSVMhl84/0.jpg)](https://youtube.com/shorts/ipOWSVMhl84)
 
 This is chatGPT voice-conversation in which it made up my voice and kept generating meaningdless conversation.
