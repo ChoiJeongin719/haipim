@@ -74,7 +74,7 @@ For example, chatbots are yesbots so that people can forget societal sense.
 Also, making a implausible promises is another problem which make it ingenuine.
 
 
-# Chatbots that do not say 'No'
+### Chatbots that do not say 'No'
 
 **User:**  
 Can you do my homework for me?
@@ -108,7 +108,7 @@ Yes! …I mean, absolutely not! I mean... whatever makes you happy. 😅
 
 
 
-# Chatbots that make impossible promise or saying
+### Chatbots that make impossible promise or saying
 
 **User:**  
 Hey, would you go on a date with me?
