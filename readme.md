@@ -38,7 +38,7 @@ I will focus on the **Conversational/Companion Chatbots, however, it should be a
 
 ### Replika
 ![Replika](https://play-lh.googleusercontent.com/NoBNpRDHopi0ywtUg2VpffZ7h8wpmnozxJRN886RRgOs-O0KulTBLSXYjROvWL8fsW8=w526-h296-rw)
-![Replika](![Uploading image.png…])
+![Replika](https://www.unite.ai/wp-content/uploads/2024/08/6-2cd993a5-06b2-4f86-ba6c-93b26c453276.png)
 
 Replika is an AI-powered chatbot, which provides you perpsonalized AI companionship. You can talk with them in voice. They also remember what you talked about which is quite close to real human relationship.
 
