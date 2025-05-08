@@ -1,24 +1,23 @@
 ![Chatbot Header](https://github.com/ChoiJeongin719/haipim/blob/main/assets/AI%20chatbot.png)
 
 # Good Chatbots and Bad Chatbots
-## Table of Contents
 
-1. [Chatbot Header](#chatbot-header)  
-2. [Good Chatbots and Bad Chatbots](#good-chatbots-and-bad-chatbots)  
-3. [What are chatbots?](#what-are-chatbots)  
-4. [What chatbots can do](#what-chatbots-can-do)  
-5. [Examples of Conversational Chatbots](#examples-of-conversational-chatbots)  
-    - [Replika](#replika)  
-    - [Character AI](#character-ai)  
-    - [ZETA](#zeta)  
-    - [A.](#a)  
-6. [Good Chatbots](#good-chatbots)  
-7. [Bad Chatbots](#bad-chatbots)  
-8. [Ethical Aspects](#ethical-aspects)  
-    - [Chatbot Suicide](#chatbot-suicide)  
-    - [Chatbots that do not say 'No'](#chatbots-that-do-not-say-no)  
-    - [Chatbots that make impossible promises](#chatbots-that-make-impossible-promises)  
-9. [Some Issue that I experienced](#some-issue-that-i-experienced)
+## Table of Contents
+[Good Chatbots and Bad Chatbots](#good-chatbots-and-bad-chatbots)  
+[What are chatbots?](#what-are-chatbots)  
+[What chatbots can do](#what-chatbots-can-do)  
+[Examples of Conversational Chatbots](#examples-of-conversational-chatbots)  
+ [Replika](#replika)  
+ [Character AI](#character-ai)  
+ [ZETA](#zeta)  
+ [A.](#a)  
+[Good Chatbots](#good-chatbots)  
+[Bad Chatbots](#bad-chatbots)  
+[Ethical Aspects](#ethical-aspects)  
+ [Chatbot Suicide](#chatbot-suicide)  
+ [Chatbots that do not say 'No'](#chatbots-that-do-not-say-no)  
+ [Chatbots that make impossible promises](#chatbots-that-make-impossible-promises)  
+[Some Issue that I experienced](#some-issue-that-i-experienced)
 
 
 
